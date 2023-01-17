@@ -1,6 +1,6 @@
 ﻿namespace MiladiToShamsi
 {
-    public static class Class1
+    public static class ConverDateClass
     {
         public static string convertDate(this DateTime miladiDate)
         {
